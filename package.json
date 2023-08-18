@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "kafkajs": "2.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  }
+}
